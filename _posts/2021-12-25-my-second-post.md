@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Introduction to Python
+title: Hospital database
 subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+categories: Database management 
+tags: 
 ---
 
-## Introduction to Python
+## Hospital database 
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+It is about creating hospital database management system 
 
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
