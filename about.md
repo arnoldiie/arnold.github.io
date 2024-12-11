@@ -23,3 +23,7 @@ I hold a Bachelor’s degree in Clinical Medicine and Community Health from Jomo
 
 My goal is to leverage the power of data science to drive meaningful change, particularly in healthcare. With a strong foundation in clinical medicine and a growing expertise in data analysis, I aim to bridge the gap between healthcare and technology by using data-driven insights to improve patient outcomes, optimize healthcare systems, and inform public health policies. Ultimately, I strive to contribute to innovative solutions that address global healthcare challenges and expand the impact of data science in sectors beyond healthcare, such as finance and community development.
 
+
+### Contacts
+You can reach me through my email arnoldrotich78@gmail.com
+Cell 0716304269
